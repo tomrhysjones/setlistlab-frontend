@@ -43,7 +43,15 @@ Connects to backend REST API:
 - Add/remove songs from setlists
 - Auth endpoints
 
+## Application Screenshot
+
+![Dashboard UI](./docs/dashboard-ui.png)
+
 ## 🧪 Development
 ```bash
 npm install
 npm run dev
+
+## Runs on:
+
+http://localhost:5173
