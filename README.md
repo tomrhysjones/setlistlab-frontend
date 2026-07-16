@@ -55,43 +55,50 @@ The application demonstrates a complete React frontend communicating with a REST
 
 ## Login
 
-![Login](./screenshots/login.png)
+<img width="649" height="701" alt="login" src="https://github.com/user-attachments/assets/e9b7b6cc-2642-4d93-b6d9-a6245c84be97" />
+
 
 ---
 
 ## Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+<img width="958" height="934" alt="Dashboard UI" src="https://github.com/user-attachments/assets/5eef21c4-803b-4b76-bbdb-3b8c27f14103" />
+
 
 ---
 
 ## Create Song
 
-![Create Song](./screenshots/create-song.png)
+<img width="841" height="490" alt="create song" src="https://github.com/user-attachments/assets/c9ccfaa0-4c5c-424e-bf40-038da00b9b77" />
+
 
 ---
 
 ## Songs
 
-![Songs](./screenshots/songs.png)
+<img width="828" height="380" alt="songs" src="https://github.com/user-attachments/assets/e9cdc5fd-defb-44eb-b7a0-86c7ae23ef99" />
+
 
 ---
 
 ## Create Setlist
 
-![Create Setlist](./screenshots/create-setlist.png)
+<img width="831" height="249" alt="create setlist" src="https://github.com/user-attachments/assets/1e03e792-a0f3-4282-b74e-a9e3f66c9fb9" />
+
 
 ---
 
 ## Setlists
 
-![Setlists](./screenshots/setlists.png)
+<img width="822" height="310" alt="setlists" src="https://github.com/user-attachments/assets/155c14b0-67d9-45e2-a2a1-a3b08b4c9bae" />
+
 
 ---
 
 ## Setlist Details
 
-![Setlist Details](./screenshots/setlist-details.png)
+<img width="828" height="493" alt="setlist number" src="https://github.com/user-attachments/assets/76024e67-045a-45c7-a75b-f784f2cd9b7c" />
+
 
 ---
 
