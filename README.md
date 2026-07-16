@@ -107,8 +107,6 @@ The React client supports user registration, login and persistent authentication
 
 ## 🚀 Installation
 
-## 🚀 Installation
-
 ```bash
 git clone https://github.com/tomrhysjones/setlistlab-frontend.git
 cd setlistlab-frontend
