@@ -1,59 +1,173 @@
-# SetlistLab — Frontend
+# 🎸 SetlistLab
 
-Frontend for **SetlistLab**, a MERN stack application that helps performers manage songs and build live performance setlists.
+A full-stack MERN application that helps musicians organise songs and build reusable setlists for live performances.
 
-## 🚀 Live Overview
-SetlistLab allows users to:
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+---
+
+# 🌐 Live Demo
+
+### Frontend
+https://setlistlab-frontend-8e968661be01.herokuapp.com/
+
+### Backend Repository
+https://github.com/tomrhysjones/setlistlab-backend
+
+---
+
+# 📖 Overview
+
+SetlistLab is a full-stack MERN application designed for musicians to organise songs and build reusable live performance setlists.
+
+Users can:
+
 - Create songs
 - Create setlists
 - Add songs to setlists
 - Remove songs from setlists
 - Delete songs
 - Delete setlists
-- Manage everything in a clean dashboard UI
+- Securely manage their own data using authentication
 
-## 🧱 Tech Stack
-- React (Vite)
-- JavaScript (ES6+)
-- Context API (Auth state)
-- CSS Grid + Flexbox
-- Fetch API
+The application demonstrates a complete React frontend communicating with a RESTful Express API backed by MongoDB.
+
+---
+
+# ✨ Features
+
+- User Authentication
+- Song Management
+- Setlist Management
+- Add Songs to Setlists
+- Remove Songs from Setlists
+- Protected Routes
+- Responsive Design
+- RESTful API Integration
+
+---
+
+# 🖥️ Screenshots
+
+## Login
+
+![Login](./screenshots/login.png)
+
+---
+
+## Dashboard
+
+![Dashboard](./screenshots/dashboard.png)
+
+---
+
+## Create Song
+
+![Create Song](./screenshots/create-song.png)
+
+---
+
+## Songs
+
+![Songs](./screenshots/songs.png)
+
+---
+
+## Create Setlist
+
+![Create Setlist](./screenshots/create-setlist.png)
+
+---
+
+## Setlists
+
+![Setlists](./screenshots/setlists.png)
+
+---
+
+## Setlist Details
+
+![Setlist Details](./screenshots/setlist-details.png)
+
+---
+
+# 🏗️ Tech Stack
+
+## Frontend
+
+- React
+- Vite
+- React Router
+- Axios
+- CSS
+
+## Backend
+
+- Node.js
+- Express
+- MongoDB
+- Mongoose
 - JWT Authentication
+- Bcrypt
 
-## 🔐 Features
-- Secure login system
-- Persistent authentication (JWT + localStorage)
-- Protected API routes
-- Real-time UI updates after actions
-- Responsive layout
+## Deployment
 
-## 🖥️ Key Components
-- Dashboard
-- SongForm
-- SetlistForm
-- SongList
-- SetlistList
-- SetlistDetail
-- AuthContext
+- Heroku
+- GitHub
 
-## 🔌 API Integration
-Connects to backend REST API:
-- Songs CRUD
-- Setlists CRUD
-- Add/remove songs from setlists
-- Auth endpoints
+---
 
-## Application Screenshot
+# 🧠 Why I Built This
 
-<img width="958" height="934" alt="Dashboard UI" src="https://github.com/user-attachments/assets/93067f83-731c-44eb-bef6-266a3a2b6d7e" />
+As a singer-songwriter, I wanted a better way to organise songs into reusable live performance setlists.
 
+Rather than using spreadsheets or notes, SetlistLab provides a dedicated application where performers can quickly build and manage setlists for gigs.
 
+Building this project strengthened my understanding of React, REST APIs, authentication, CRUD operations, and full-stack application architecture.
 
-## 🧪 Development
+---
+
+# 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/tomrhysjones/setlistlab-frontend
+```
+
+Install dependencies
+
 ```bash
 npm install
+```
+
+Run locally
+
+```bash
 npm run dev
+```
 
-## Runs on:
+---
 
-http://localhost:5173
+# 📚 Future Improvements
+
+- Drag-and-drop song ordering
+- Search songs
+- Search setlists
+- Estimated set duration
+- Song key & tempo
+- Export setlists as PDF
+- Dark Mode
+
+---
+
+# 👨‍💻 Author
+
+Tom Rhys Jones
+
+- GitHub: https://github.com/tomrhysjones
+- LinkedIn: https://www.linkedin.com/in/tom-rhys-jones-63b553209/
