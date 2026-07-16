@@ -19,6 +19,12 @@ https://setlistlab-frontend-8e968661be01.herokuapp.com/
 
 https://github.com/tomrhysjones/setlistlab-backend
 
+## 🔐 Authentication
+
+Users register and log in through dedicated authentication routes. Passwords are hashed using bcrypt, and protected API routes require a valid JSON Web Token.
+
+Each user can access and manage only their own songs and setlists.
+
 ---
 
 ## 📖 Overview
