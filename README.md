@@ -45,7 +45,9 @@ Connects to backend REST API:
 
 ## Application Screenshot
 
-![Dashboard UI](./docs/dashboard-ui.png)
+<img width="958" height="934" alt="Dashboard UI" src="https://github.com/user-attachments/assets/93067f83-731c-44eb-bef6-266a3a2b6d7e" />
+
+
 
 ## 🧪 Development
 ```bash
