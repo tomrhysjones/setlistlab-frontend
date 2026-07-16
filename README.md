@@ -49,12 +49,17 @@ Built with React on the frontend and a Node.js/Express REST API backed by MongoD
 
 ## 🛠 Tech Stack
 
+## 🔐 Authentication
+
+The React client supports user registration, login and persistent authentication. Protected requests include a JSON Web Token when communicating with the backend API.
+
 ### Frontend
 
 - React
 - Vite
 - React Router
-- Axios
+- Context API
+- Fetch API
 - CSS
 
 ### Backend
@@ -102,17 +107,13 @@ Built with React on the frontend and a Node.js/Express REST API backed by MongoD
 
 ## 🚀 Installation
 
-```bash
-git clone https://github.com/tomrhysjones/setlistlab-frontend
-```
+## 🚀 Installation
 
 ```bash
+git clone https://github.com/tomrhysjones/setlistlab-frontend.git
+cd setlistlab-frontend
 npm install
-```
-
-```bash
 npm run dev
-```
 
 ---
 
